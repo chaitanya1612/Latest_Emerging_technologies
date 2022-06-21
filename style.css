@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+
+#h1{
+   color: coral;
+}
+
+#h2, #h3, #h4{
+    color: red;
+}
+
+#p1, #p2, #p3{
+    font-size: large;
+    color: blueviolet;
+}
+
+#im2, #im3{
+    width: 780px;
+    height: 500px;
+}
