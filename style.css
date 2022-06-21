@@ -9,11 +9,13 @@ body{
 
 #h2, #h3, #h4{
     color: red;
+    text-align: center;
 }
 
 #p1, #p2, #p3{
     font-size: large;
     color: blueviolet;
+    text-justify: newspaper;
 }
 
 #im2, #im3{
